@@ -1,0 +1,1 @@
+Prevent tracking by preventing remote hosts from resolving.
